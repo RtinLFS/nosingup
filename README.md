@@ -44,6 +44,7 @@ Chat with AI models **without creating an account**:
 | Website | Description |
 |---------|-------------|
 | [Duck.ai](https://duck.ai) | 🏆 DuckDuckGo's anonymous AI chat — access GPT-4o mini, Claude Haiku, Llama & Mistral with no account. Chats are not stored. The gold standard of no-signup AI. |
+| [Dolphin Chat](https://chat.dphn.ai/) | Dolphin chat provides Dolphin X1 Nano 8B - uncensored (trained on Llama3.1 8B) for free and without sign-up |
 | [LMArena](https://lmarena.ai) | Chat with cutting-edge models (GPT, Claude, Gemini, Grok…) for free. Blind side-by-side "battles" power its famous leaderboard. No login needed. |
 | [Venice](https://venice.ai) | Privacy-focused AI chat & image generation running open-source models. No account required for basic use. |
 | [Perplexity](https://www.perplexity.ai) | AI answer engine with sources. Basic search/chat works anonymously; account only needed for Pro & history. |
