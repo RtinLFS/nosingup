@@ -59,6 +59,7 @@ Chat with AI models **without creating an account**:
 
 | Website | Description |
 |---------|-------------|
+| [Duck.ai](https://www.duck.ai) | 🏆 Free, privacy-friendly text-to-image generation and image editing with a simple interface. Powered by GPT Image 2 model.  |
 | [Craiyon](https://www.craiyon.com) | Formerly DALL-E mini. Completely free, no account ever required. |
 | [Perchance AI Image Generator](https://perchance.org/ai-text-to-image-generator) | Unlimited free image generation, no sign-in. |
 | [FLUX.1 schnell (HF Space)](https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell) | State-of-the-art FLUX model on Hugging Face Spaces — usable anonymously (queued). |
