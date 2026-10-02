@@ -141,7 +141,8 @@ Chat with AI models **without creating an account**:
 
 | Website | Description |
 |---------|-------------|
-| [Photopea](https://www.photopea.com) | Full Photoshop-grade editor in the browser. Free, no login. 🏆 |
+| [Photopea](https://www.photopea.com) | 🏆 Full Photoshop-grade editor in the browser. Free, no login.  |
+| [OpenCUT](https://opencut.app/) | A free and open source video editor for web, desktop, and mobile. |
 | [Pixlr](https://pixlr.com) | Online photo editor with AI tools. |
 | [Squoosh](https://squoosh.app) | Google's image compressor — runs fully offline in-browser. |
 | [EZGIF](https://ezgif.com) | The complete GIF toolbox: crop, resize, cut, optimize. |
