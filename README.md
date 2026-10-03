@@ -85,6 +85,7 @@ Chat with AI models **without creating an account**:
 | [Litterbox](https://litterbox.catbox.moe) | Temporary file hosting (1h–72h) from the Catbox team. |
 | [tmpfiles](https://tmpfiles.org) | Temporary file uploads, auto-deleted after 60 minutes. |
 | [transfer.archivete.am](https://transfer.archivete.am) | Archive Team's Firefox Send fork — encrypted one-time links. |
+| [Filebin](https://transfer.archivete.am) | Filebin is a file sharing web application that aims to be convenient and easy to use. [License:BSD 3-clause](https://filebin.net/about) |
 
 ## ✉️ Temporary Email
 
