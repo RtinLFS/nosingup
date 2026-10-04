@@ -109,6 +109,9 @@ Chat with AI models **without creating an account**:
 | [PrivateBin](https://privatebin.net) | Zero-knowledge encrypted pastebin (find instances). |
 | [OneTimeSecret](https://onetimesecret.com) | Share secrets via one-time links. |
 | [PrivNote](https://privnote.com) | Self-destructing notes. |
+| [Debian Pastezone](paste.debian.net) | Sharing note with time limitation (1h, 24h, 3d, 90d) and syntax hilighting support under [APGL 3.0](https://salsa.debian.org/formorer/paste-pl)|
+
+
 
 ## 🖼️ Image Hosting
 
