@@ -123,6 +123,8 @@ Chat with AI models **without creating an account**:
 | [FreeImage.host](https://freeimage.host) | Simple drag-and-drop image sharing. |
 | [Pixhost](https://pixhost.to) | Free image hosting with galleries. |
 
+
+
 ## 🔗 URL Shorteners
 
 | Website | Description |
@@ -131,6 +133,7 @@ Chat with AI models **without creating an account**:
 | [v.gd](https://v.gd) | is.gd's sibling with click stats. |
 | [TinyURL](https://tinyurl.com) | The veteran of URL shortening. |
 | [spoo.me](https://spoo.me) | Open-source shortener with QR codes & no tracking. |
+| [Pixellize](https://pixellize.io) | Shorten any long link, pick a custom alias, and track every click with a 7-day chart, top referrers, and device breakdown. No signup, and links can auto-expire when you want. |
 
 ## 🛠️ PDF & File Tools
 
