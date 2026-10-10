@@ -195,6 +195,7 @@ Chat with AI models **without creating an account**:
 | [HackMD](https://hackmd.io) | Real-time Markdown collaboration (guest mode). |
 | [Rentry](https://rentry.co) | Instant Markdown pages with custom URLs. |
 | [Dillinger](https://dillinger.io/) | Instant Markdown Editor/Viewer that can export as Markdown, HTML, PDF |
+| [Markdown Live Preview](https://markdownlivepreview.com) | a tiny web tool to preview Markdown formatted text published under MIT license. it supports Dark mode, sync scrloiing and export PDF. |
 
 
 ## 🌐 Translation
