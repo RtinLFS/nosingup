@@ -93,6 +93,7 @@ Chat with AI models **without creating an account**:
 
 | Website | Description |
 |---------|-------------|
+| [Email Fake](https://email-fake.com) | Disposable inbox with persistence address. |
 | [Temp-Mail](https://temp-mail.org) | Disposable inbox with a fresh address on load. |
 | [Guerrilla Mail](https://www.guerrillamail.com) | Classic disposable email with reply support. |
 | [10 Minute Mail](https://10minutemail.com) | Self-destructing inbox, 10 minutes. |
