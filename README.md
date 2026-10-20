@@ -67,98 +67,6 @@ Chat with AI models **without creating an account**:
 | [FLUX.1 schnell (HF Space)](https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell) | State-of-the-art FLUX model on Hugging Face Spaces — usable anonymously (queued). |
 | [DeepAI Image Generator](https://deepai.org/machine-learning-model/text2img) | Quick text-to-image without an account. |
 
-## 🔍 Search Engines
-
-| Website | Description |
-|---------|-------------|
-| [DuckDuckGo](https://duckduckgo.com) | Private search, zero tracking, no account. |
-| [Startpage](https://www.startpage.com) | Google results with privacy. |
-| [Brave Search](https://search.brave.com) | Independent index, anonymous use. |
-| [SearXNG (searx.be)](https://searx.be) | Open-source metasearch instance. [More instances](https://searx.space) |
-
-## 📁 File Sharing & Transfer
-
-| Website | Description |
-|---------|-------------|
-| [Wormhole](https://wormhole.app) | End-to-end encrypted file sharing up to 10 GB. No account. |
-| [FilePizza](https://file.pizza) | Peer-to-peer file transfer straight in the browser. |
-| [Gofile](https://gofile.io) | Free file hosting & sharing, anonymous uploads. |
-| [Litterbox](https://litterbox.catbox.moe) | Temporary file hosting (1h–72h) from the Catbox team. |
-| [tmpfiles](https://tmpfiles.org) | Temporary file uploads, auto-deleted after 60 minutes. |
-| [transfer.archivete.am](https://transfer.archivete.am) | Archive Team's Firefox Send fork — encrypted one-time links. |
-| [Filebin](https://transfer.archivete.am) | Filebin is a file sharing web application that aims to be convenient and easy to use. [License:BSD 3-clause](https://filebin.net/about) |
-
-## ✉️ Temporary Email
-
-> ⚠️ Public inboxes — anyone may see the mail. Never use for sensitive accounts.
-
-| Website | Description |
-|---------|-------------|
-| [Email Fake](https://email-fake.com) | Disposable inbox with persistence address. |
-| [Temp-Mail](https://temp-mail.org) | Disposable inbox with a fresh address on load. |
-| [Guerrilla Mail](https://www.guerrillamail.com) | Classic disposable email with reply support. |
-| [10 Minute Mail](https://10minutemail.com) | Self-destructing inbox, 10 minutes. |
-| [Mailinator](https://www.mailinator.com) | Public inboxes for any invented address. |
-
-## 📋 Pastebins & Text Sharing
-
-| Website | Description |
-|---------|-------------|
-| [Pastebin](https://pastebin.com) | The classic text-sharing site. |
-| [dpaste](https://dpaste.org) | Simple, open-source pastebin with expiry. |
-| [paste.rs](https://paste.rs) | Minimalist pastebin — even works via `curl`. |
-| [Rentry](https://rentry.co) | Markdown pastebin with custom URLs. |
-| [PrivateBin](https://privatebin.net) | Zero-knowledge encrypted pastebin (find instances). |
-| [OneTimeSecret](https://onetimesecret.com) | Share secrets via one-time links. |
-| [PrivNote](https://privnote.com) | Self-destructing notes. |
-| [Debian Pastezone](paste.debian.net) | Sharing note with time limitation (1h, 24h, 3d, 90d) and syntax hilighting support under [APGL 3.0](https://salsa.debian.org/formorer/paste-pl)|
-| [CentOS Pastebin](https://paste.centos.org) | Stikked is an Open-Source PHP Pastebin, with the aim of keeping a simple and easy to use user interface. It supports adding password, burn on reading, and etc.|
-| [Ir Ubuntu Pastebin](https://paste.ubuntu-ir.org/) | Iranian Ubuntu community pastebin service.  |
-
-
-
-
-## 🖼️ Image Hosting
-
-| Website | Description |
-|---------|-------------|
-| [Catbox](https://catbox.moe) | Permanent file/image hosting, no account. |
-| [PostImages](https://postimages.org) | Free image hosting for forums & blogs. |
-| [FreeImage.host](https://freeimage.host) | Simple drag-and-drop image sharing. |
-| [Pixhost](https://pixhost.to) | Free image hosting with galleries. |
-
-
-
-## 🔗 URL Shorteners
-
-| Website | Description |
-|---------|-------------|
-| [is.gd](https://is.gd) | No-frills shortener, custom URLs, even via API. |
-| [v.gd](https://v.gd) | is.gd's sibling with click stats. |
-| [TinyURL](https://tinyurl.com) | The veteran of URL shortening. |
-| [spoo.me](https://spoo.me) | Open-source shortener with QR codes & no tracking. |
-| [Pixellize](https://pixellize.io) | Shorten any long link, pick a custom alias, and track every click with a 7-day chart, top referrers, and device breakdown. No signup, and links can auto-expire when you want. |
-
-## 🛠️ PDF & File Tools
-
-| Website | Description |
-|---------|-------------|
-| [PDF24 Tools](https://tools.pdf24.org) | ~30 free PDF tools — merge, split, compress, convert. |
-| [iLovePDF](https://www.ilovepdf.com) | Full PDF toolkit, free with limits. |
-| [Smallpdf](https://smallpdf.com) | Popular PDF tools, limited free use. |
-| [CloudConvert](https://cloudconvert.com) | Convert anything to anything (200+ formats). |
-| [Convertio](https://convertio.co) | Online converter for files & URLs. |
-
-## 🖼️ Image & Video Editors
-
-| Website | Description |
-|---------|-------------|
-| [Photopea](https://www.photopea.com) | 🏆 Full Photoshop-grade editor in the browser. Free, no login.  |
-| [OpenCUT](https://opencut.app/) | A free and open source video editor for web, desktop, and mobile. |
-| [Pixlr](https://pixlr.com) | Online photo editor with AI tools. |
-| [Squoosh](https://squoosh.app) | Google's image compressor — runs fully offline in-browser. |
-| [EZGIF](https://ezgif.com) | The complete GIF toolbox: crop, resize, cut, optimize. |
-| [Cobalt](https://cobalt.tools) | Clean, ad-free downloader for video/audio. No account. |
 
 ## 🎧 Audio Tools
 
@@ -168,13 +76,6 @@ Chat with AI models **without creating an account**:
 | [MP3Cut](https://mp3cut.net) | Trim audio in the browser. |
 | [Online Audio Converter](https://online-audio-converter.com) | Convert to MP3, WAV, FLAC & more. |
 
-## 🎨 Drawing & Whiteboards
-
-| Website | Description |
-|---------|-------------|
-| [Excalidraw](https://excalidraw.com) | Hand-drawn-style diagrams & whiteboard. No account. 🏆 |
-| [tldraw](https://www.tldraw.com) | Butter-smooth infinite canvas whiteboard. |
-| [draw.io](https://app.diagrams.net) | Professional diagramming (flowcharts, UML, network). |
 
 ## 💻 Code Playgrounds & Dev Tools
 
@@ -191,24 +92,61 @@ Chat with AI models **without creating an account**:
 | [JSONFormatter](https://jsonformatter.org) | Format/validate/minify JSON & more. |
 | [Transform](https://transform.tools) | Convert between formats (JSON↔TypeScript, YAML↔TOML…). |
 
-## 📝 Notes & Docs
+
+## 🎨 Drawing & Whiteboards
 
 | Website | Description |
 |---------|-------------|
-| [CryptPad](https://cryptpad.fr) | Encrypted collaborative docs & sheets. |
-| [HackMD](https://hackmd.io) | Real-time Markdown collaboration (guest mode). |
-| [Rentry](https://rentry.co) | Instant Markdown pages with custom URLs. |
-| [Dillinger](https://dillinger.io/) | Instant Markdown Editor/Viewer that can export as Markdown, HTML, PDF |
-| [Markdown Live Preview](https://markdownlivepreview.com) | a tiny web tool to preview Markdown formatted text published under MIT license. it supports Dark mode, sync scrloiing and export PDF. |
-| [Diff Checker](https://diffchecker.dev) | a tiny web tool to check difference between text, json, xml, yaml, list, image, pdf, word, folder and etc. |
+| [Excalidraw](https://excalidraw.com) | Hand-drawn-style diagrams & whiteboard. No account. 🏆 |
+| [tldraw](https://www.tldraw.com) | Butter-smooth infinite canvas whiteboard. |
+| [draw.io](https://app.diagrams.net) | Professional diagramming (flowcharts, UML, network). |
 
-## 🌐 Translation
+## 📁 File Sharing & Transfer
 
 | Website | Description |
 |---------|-------------|
-| [Google Translate](https://translate.google.com) | Translate text, docs & websites. |
-| [DeepL](https://www.deepl.com) | The most natural machine translation. |
-| [LibreTranslate](https://libretranslate.com) | Open-source, self-hostable translation API. |
+| [Wormhole](https://wormhole.app) | End-to-end encrypted file sharing up to 10 GB. No account. |
+| [FilePizza](https://file.pizza) | Peer-to-peer file transfer straight in the browser. |
+| [Gofile](https://gofile.io) | Free file hosting & sharing, anonymous uploads. |
+| [Litterbox](https://litterbox.catbox.moe) | Temporary file hosting (1h–72h) from the Catbox team. |
+| [tmpfiles](https://tmpfiles.org) | Temporary file uploads, auto-deleted after 60 minutes. |
+| [transfer.archivete.am](https://transfer.archivete.am) | Archive Team's Firefox Send fork — encrypted one-time links. |
+| [Filebin](https://transfer.archivete.am) | Filebin is a file sharing web application that aims to be convenient and easy to use. [License:BSD 3-clause](https://filebin.net/about) |
+
+## 🎮 Games
+
+| Website | Description |
+|---------|-------------|
+| [Lichess](https://lichess.org) | Full-featured free chess — play instantly, no account. 🏆 |
+| [Monkeytype](https://monkeytype.com) | Minimalist, beautiful typing test. |
+| [2048](https://play2048.co) | The famous sliding-tile puzzle. |
+| [Slither.io](https://slither.io) | Massively multiplayer snake — nickname only. |
+| [Minesweeper Online](https://minesweeper.online) | Classic minesweeper in the browser. |
+| [skribbl.io](https://skribbl.io) | Draw & guess with friends — nickname only. |
+
+
+## 🖼️ Image Hosting
+
+| Website | Description |
+|---------|-------------|
+| [Catbox](https://catbox.moe) | Permanent file/image hosting, no account. |
+| [PostImages](https://postimages.org) | Free image hosting for forums & blogs. |
+| [FreeImage.host](https://freeimage.host) | Simple drag-and-drop image sharing. |
+| [Pixhost](https://pixhost.to) | Free image hosting with galleries. |
+
+
+## 🖼️ Image & Video Editors
+
+| Website | Description |
+|---------|-------------|
+| [Photopea](https://www.photopea.com) | 🏆 Full Photoshop-grade editor in the browser. Free, no login.  |
+| [OpenCUT](https://opencut.app/) | A free and open source video editor for web, desktop, and mobile. |
+| [Pixlr](https://pixlr.com) | Online photo editor with AI tools. |
+| [Squoosh](https://squoosh.app) | Google's image compressor — runs fully offline in-browser. |
+| [EZGIF](https://ezgif.com) | The complete GIF toolbox: crop, resize, cut, optimize. |
+| [Cobalt](https://cobalt.tools) | Clean, ad-free downloader for video/audio. No account. |
+
+
 
 ## 📚 Learning & Reading
 
@@ -222,16 +160,92 @@ Chat with AI models **without creating an account**:
 | [freeCodeCamp News](https://www.freecodecamp.org/news) | Free programming articles & tutorials. |
 | [DevDocs](https://devdocs.io) | All API docs in one fast interface. |
 
-## 🎮 Games
+
+
+## 📝 Notes & Docs
 
 | Website | Description |
 |---------|-------------|
-| [Lichess](https://lichess.org) | Full-featured free chess — play instantly, no account. 🏆 |
-| [Monkeytype](https://monkeytype.com) | Minimalist, beautiful typing test. |
-| [2048](https://play2048.co) | The famous sliding-tile puzzle. |
-| [Slither.io](https://slither.io) | Massively multiplayer snake — nickname only. |
-| [Minesweeper Online](https://minesweeper.online) | Classic minesweeper in the browser. |
-| [skribbl.io](https://skribbl.io) | Draw & guess with friends — nickname only. |
+| [CryptPad](https://cryptpad.fr) | Encrypted collaborative docs & sheets. |
+| [HackMD](https://hackmd.io) | Real-time Markdown collaboration (guest mode). |
+| [Rentry](https://rentry.co) | Instant Markdown pages with custom URLs. |
+| [Dillinger](https://dillinger.io/) | Instant Markdown Editor/Viewer that can export as Markdown, HTML, PDF |
+| [Markdown Live Preview](https://markdownlivepreview.com) | a tiny web tool to preview Markdown formatted text published under MIT license. it supports Dark mode, sync scrloiing and export PDF. |
+| [Diff Checker](https://diffchecker.dev) | a tiny web tool to check difference between text, json, xml, yaml, list, image, pdf, word, folder and etc. |
+
+## 📋 Pastebins & Text Sharing
+
+| Website | Description |
+|---------|-------------|
+| [Pastebin](https://pastebin.com) | The classic text-sharing site. |
+| [dpaste](https://dpaste.org) | Simple, open-source pastebin with expiry. |
+| [paste.rs](https://paste.rs) | Minimalist pastebin — even works via `curl`. |
+| [Rentry](https://rentry.co) | Markdown pastebin with custom URLs. |
+| [PrivateBin](https://privatebin.net) | Zero-knowledge encrypted pastebin (find instances). |
+| [OneTimeSecret](https://onetimesecret.com) | Share secrets via one-time links. |
+| [PrivNote](https://privnote.com) | Self-destructing notes. |
+| [Debian Pastezone](paste.debian.net) | Sharing note with time limitation (1h, 24h, 3d, 90d) and syntax hilighting support under [APGL 3.0](https://salsa.debian.org/formorer/paste-pl)|
+| [CentOS Pastebin](https://paste.centos.org) | Stikked is an Open-Source PHP Pastebin, with the aim of keeping a simple and easy to use user interface. It supports adding password, burn on reading, and etc.|
+| [Ir Ubuntu Pastebin](https://paste.ubuntu-ir.org/) | Iranian Ubuntu community pastebin service.  |
+
+## 🛠️ PDF & File Tools
+
+| Website | Description |
+|---------|-------------|
+| [PDF24 Tools](https://tools.pdf24.org) | ~30 free PDF tools — merge, split, compress, convert. |
+| [iLovePDF](https://www.ilovepdf.com) | Full PDF toolkit, free with limits. |
+| [Smallpdf](https://smallpdf.com) | Popular PDF tools, limited free use. |
+| [CloudConvert](https://cloudconvert.com) | Convert anything to anything (200+ formats). |
+| [Convertio](https://convertio.co) | Online converter for files & URLs. |
+
+## 🔒 Privacy & Security Tools
+
+| Website | Description |
+|---------|-------------|
+| [VirusTotal](https://www.virustotal.com) | Scan files & URLs with 70+ antivirus engines. |
+| [Bitwarden Password Generator](https://bitwarden.com/password-generator) | Generate strong passwords/passphrases. |
+| [1Password Generator](https://1password.com/password-generator) | Another solid random password tool. |
+| [Have I Been Pwned](https://haveibeenpwned.com) | Check if your email appears in data breaches. |
+| [Cover Your Tracks](https://coveryourtracks.eff.org) | EFF's browser fingerprinting test. |
+
+## 🔍 Search Engines
+
+| Website | Description |
+|---------|-------------|
+| [DuckDuckGo](https://duckduckgo.com) | Private search, zero tracking, no account. |
+| [Startpage](https://www.startpage.com) | Google results with privacy. |
+| [Brave Search](https://search.brave.com) | Independent index, anonymous use. |
+| [SearXNG (searx.be)](https://searx.be) | Open-source metasearch instance. [More instances](https://searx.space) |
+
+## ✉️ Temporary Email
+
+> ⚠️ Public inboxes — anyone may see the mail. Never use for sensitive accounts.
+
+| Website | Description |
+|---------|-------------|
+| [Email Fake](https://email-fake.com) | Disposable inbox with persistence address. |
+| [Temp-Mail](https://temp-mail.org) | Disposable inbox with a fresh address on load. |
+| [Guerrilla Mail](https://www.guerrillamail.com) | Classic disposable email with reply support. |
+| [10 Minute Mail](https://10minutemail.com) | Self-destructing inbox, 10 minutes. |
+| [Mailinator](https://www.mailinator.com) | Public inboxes for any invented address. |
+
+## 🌐 Translation
+
+| Website | Description |
+|---------|-------------|
+| [Google Translate](https://translate.google.com) | Translate text, docs & websites. |
+| [DeepL](https://www.deepl.com) | The most natural machine translation. |
+| [LibreTranslate](https://libretranslate.com) | Open-source, self-hostable translation API. |
+
+## 🔗 URL Shorteners
+
+| Website | Description |
+|---------|-------------|
+| [is.gd](https://is.gd) | No-frills shortener, custom URLs, even via API. |
+| [v.gd](https://v.gd) | is.gd's sibling with click stats. |
+| [TinyURL](https://tinyurl.com) | The veteran of URL shortening. |
+| [spoo.me](https://spoo.me) | Open-source shortener with QR codes & no tracking. |
+| [Pixellize](https://pixellize.io) | Shorten any long link, pick a custom alias, and track every click with a 7-day chart, top referrers, and device breakdown. No signup, and links can auto-expire when you want. |
 
 ## 🔧 Utilities
 
@@ -243,16 +257,6 @@ Chat with AI models **without creating an account**:
 | [DNSChecker](https://dnschecker.org) | Global DNS propagation checker. |
 | [MXToolbox](https://mxtoolbox.com) | Email & DNS diagnostics (MX, SPF, blacklist). |
 | [watch2gether](https://www.watch2gether.com) | Watch videos together, synced, no account. |
-
-## 🔒 Privacy & Security Tools
-
-| Website | Description |
-|---------|-------------|
-| [VirusTotal](https://www.virustotal.com) | Scan files & URLs with 70+ antivirus engines. |
-| [Bitwarden Password Generator](https://bitwarden.com/password-generator) | Generate strong passwords/passphrases. |
-| [1Password Generator](https://1password.com/password-generator) | Another solid random password tool. |
-| [Have I Been Pwned](https://haveibeenpwned.com) | Check if your email appears in data breaches. |
-| [Cover Your Tracks](https://coveryourtracks.eff.org) | EFF's browser fingerprinting test. |
 
 ---
 
