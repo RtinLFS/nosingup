@@ -158,7 +158,8 @@ Chat with AI models **without creating an account**:
 | [Internet Archive](https://archive.org) | The wayback machine & vast media library. |
 | [MIT OpenCourseWare](https://ocw.mit.edu) | Free MIT course materials. |
 | [freeCodeCamp News](https://www.freecodecamp.org/news) | Free programming articles & tutorials. |
-| [DevDocs](https://devdocs.io) | All API docs in one fast interface. |
+| [DevDocs](https://devdocs.io) | All API docs in one fast interface.|
+| [Roadmap.sh](https://roadmap.sh) | roadmap.sh is a learning platform for developers, offering community-made roadmaps, guides, projects, and articles to help you choose a path and grow your skills. |
 
 
 
