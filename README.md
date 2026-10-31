@@ -188,6 +188,10 @@ Chat with AI models **without creating an account**:
 | [Debian Pastezone](paste.debian.net) | Sharing note with time limitation (1h, 24h, 3d, 90d) and syntax hilighting support under [APGL 3.0](https://salsa.debian.org/formorer/paste-pl)|
 | [CentOS Pastebin](https://paste.centos.org) | Stikked is an Open-Source PHP Pastebin, with the aim of keeping a simple and easy to use user interface. It supports adding password, burn on reading, and etc.|
 | [Ir Ubuntu Pastebin](https://paste.ubuntu-ir.org/) | Iranian Ubuntu community pastebin service.  |
+| [IraNet](https://paste.nsprotection.me/) | Pastebin service |
+
+
+
 
 ## 🛠️ PDF & File Tools
 
