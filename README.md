@@ -262,6 +262,7 @@ Chat with AI models **without creating an account**:
 | [DNSChecker](https://dnschecker.org) | Global DNS propagation checker. |
 | [MXToolbox](https://mxtoolbox.com) | Email & DNS diagnostics (MX, SPF, blacklist). |
 | [watch2gether](https://www.watch2gether.com) | Watch videos together, synced, no account. |
+| [StagePeek](https://stagepeek.live) | Interactive 2D/3D concert & stadium seat-view simulator across 201 venues (first seat preview free, no login required). |
 
 ---
 
